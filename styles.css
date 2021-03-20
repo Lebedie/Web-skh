@@ -1,0 +1,59 @@
+header { 
+    background-image: url(https://shakhtar.com/-/media/fcsd/news/2021/march/19_news/19_maycon/1245.jpg?h=799&la=ru-RU&w=1245);
+    background-size: cover;
+    height: 725px;
+}
+
+.first-nav {
+    position: fixed;
+    opacity: .7;
+}
+
+.first-nav:hover{
+    opacity: 1;
+    transition: opacity 1s linear;
+}
+
+
+.car-hed {    
+    margin: 0 auto;
+    color: grey;
+    max-width: 450px;
+}
+
+.content-hr {
+    width: 100%;
+    height: 250px;
+    background: #666666;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.content-header {
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.content-div img {
+    width: 100%;
+    position: absolute;
+}
+
+.card {
+    width: 450px;
+    margin: 0 auto;
+}
+
+.alert  {
+    opacity: .8;
+    background: orange;
+    margin-top: 55px;
+}
+
+.alert h4 {
+    text-align: center;
+}
+
+
+
